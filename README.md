@@ -10,8 +10,8 @@ HTML,CSS,JS, NodeJS and MongoDB
 5. npm install mongo
 6. run code:  node app.js
 7. check if inserted or not by going to mongodb shell:
-  * mongo
-  * show databases;
-  * use db;
-  *  db.collection.find().pretty();
+   * mongo
+   * show databases;
+   * use db;
+   *  db.collection.find().pretty();
 
