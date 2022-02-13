@@ -7,7 +7,7 @@ HTML,CSS,JS, NodeJS, ExpressJS and MongoDB
 2. npm init
 3. create app.js
 4. npm install express
-5. npm install mongo
+5. npm install mongodb
 6. run code:  node app.js
 7. check if inserted or not by going to mongodb shell:
    * mongo
